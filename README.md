@@ -71,18 +71,6 @@ My personal website for showcasing projects and web development work.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jovinjoju&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovinjoju&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Most-used programming languages" />
-</p>
-
----
-
 ## 🎯 My Current Goals
 
 - [ ] Improve my Python and Java programming skills.
